@@ -1,0 +1,3 @@
+D:/My Programs/Learn/C/Review/build/CMakeFiles/main.dir
+D:/My Programs/Learn/C/Review/build/CMakeFiles/edit_cache.dir
+D:/My Programs/Learn/C/Review/build/CMakeFiles/rebuild_cache.dir
